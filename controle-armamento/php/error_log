@@ -1,0 +1,55 @@
+[23-Oct-2024 22:58:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'Atribuicoes.id' in 'field list' in /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/consulta_historico_atribuicoes.php:9
+Stack trace:
+#0 /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/consulta_historico_atribuicoes.php(9): mysqli_query()
+#1 {main}
+  thrown in /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/consulta_historico_atribuicoes.php on line 9
+[26-Oct-2024 17:03:23 UTC] PHP Warning:  Undefined variable $arma in /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/edit_arma.php on line 61
+[26-Oct-2024 17:03:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/edit_arma.php on line 61
+[26-Oct-2024 17:03:23 UTC] PHP Warning:  Undefined variable $arma in /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/edit_arma.php on line 64
+[26-Oct-2024 17:03:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/edit_arma.php on line 64
+[26-Oct-2024 17:03:23 UTC] PHP Warning:  Undefined variable $arma in /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/edit_arma.php on line 67
+[26-Oct-2024 17:03:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/edit_arma.php on line 67
+[26-Oct-2024 17:03:23 UTC] PHP Warning:  Undefined variable $arma in /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/edit_arma.php on line 70
+[26-Oct-2024 17:03:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/edit_arma.php on line 70
+[26-Oct-2024 17:03:23 UTC] PHP Warning:  Undefined variable $arma in /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/edit_arma.php on line 74
+[26-Oct-2024 17:03:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/edit_arma.php on line 74
+[26-Oct-2024 17:03:23 UTC] PHP Warning:  Undefined variable $arma in /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/edit_arma.php on line 75
+[26-Oct-2024 17:03:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/edit_arma.php on line 75
+[26-Oct-2024 17:03:23 UTC] PHP Warning:  Undefined variable $arma in /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/edit_arma.php on line 76
+[26-Oct-2024 17:03:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/edit_arma.php on line 76
+[26-Oct-2024 17:03:23 UTC] PHP Warning:  Undefined variable $arma in /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/edit_arma.php on line 77
+[26-Oct-2024 17:03:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/edit_arma.php on line 77
+[26-Oct-2024 17:03:23 UTC] PHP Warning:  Undefined variable $arma in /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/edit_arma.php on line 81
+[26-Oct-2024 17:03:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/edit_arma.php on line 81
+[26-Oct-2024 17:03:23 UTC] PHP Warning:  Undefined variable $arma in /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/edit_arma.php on line 84
+[26-Oct-2024 17:03:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/edit_arma.php on line 84
+[31-Oct-2024 16:56:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'Oficiais.id' in 'field list' in /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/consulta_oficiais_sem_armas.php:9
+Stack trace:
+#0 /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/consulta_oficiais_sem_armas.php(9): mysqli_query()
+#1 {main}
+  thrown in /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/consulta_oficiais_sem_armas.php on line 9
+[31-Oct-2024 16:56:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'Atribuicoes.id' in 'field list' in /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/consulta_historico_atribuicoes.php:9
+Stack trace:
+#0 /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/consulta_historico_atribuicoes.php(9): mysqli_query()
+#1 {main}
+  thrown in /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/consulta_historico_atribuicoes.php on line 9
+[31-Oct-2024 16:57:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'Oficiais.id' in 'field list' in /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/consulta_oficiais_sem_armas.php:9
+Stack trace:
+#0 /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/consulta_oficiais_sem_armas.php(9): mysqli_query()
+#1 {main}
+  thrown in /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/consulta_oficiais_sem_armas.php on line 9
+[31-Oct-2024 16:57:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'Atribuicoes.id' in 'field list' in /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/consulta_historico_atribuicoes.php:9
+Stack trace:
+#0 /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/consulta_historico_atribuicoes.php(9): mysqli_query()
+#1 {main}
+  thrown in /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/consulta_historico_atribuicoes.php on line 9
+[31-Oct-2024 16:58:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'Oficiais.id' in 'field list' in /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/consulta_oficiais_sem_armas.php:9
+Stack trace:
+#0 /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/consulta_oficiais_sem_armas.php(9): mysqli_query()
+#1 {main}
+  thrown in /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/consulta_oficiais_sem_armas.php on line 9
+[31-Oct-2024 16:59:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'Oficiais.id' in 'field list' in /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/consulta_oficiais_sem_armas.php:9
+Stack trace:
+#0 /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/consulta_oficiais_sem_armas.php(9): mysqli_query()
+#1 {main}
+  thrown in /mnt/HC_Volume_101269084/luokali1/testes.luokaliye.ao/php/consulta_oficiais_sem_armas.php on line 9
