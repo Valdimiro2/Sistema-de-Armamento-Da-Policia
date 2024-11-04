@@ -1,5 +1,6 @@
 <?php
 require_once("src/connection.php");
+$teste="";
 $conn = DataBase::getConnection();
 
 $result = DataBase::obterOficiais();

@@ -80,7 +80,7 @@ $stmt->close();
     <div id="message" class="alert alert-<?= $messageType ?>"><?= $message ?></div>
 <?php endif; ?>
 <div class="container">
-    <h2>Adicionar Novas Armas</h2>
+    <h2>Adicionar Novo Armamento</h2>
     <form id="addArmaForm" class="form-control" action="#" method="POST">
         <div class="container mt-5">
             <div class="row mb-3">
