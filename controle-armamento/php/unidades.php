@@ -28,7 +28,14 @@ try{
         });
       </script>";
     } else {
-        echo "Erro ao adicionar unidade: " . $stmt->error;
+        echo "<script type='text/javascript'>
+        Swal.fire({
+            title: 'Mensagem',
+            text: 'Erro ao adicionar unidade $stmt->error',
+            icon: 'info',
+            confirmButtonText: 'OK'
+        });
+      </script>";
     }
 
     $stmt->close();
